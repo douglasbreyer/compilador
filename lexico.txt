@@ -1,0 +1,8 @@
+int a
+a = a + 2
+int e 
+e = 4
+if a > e & a != e {
+	a = 1
+}
+EOF

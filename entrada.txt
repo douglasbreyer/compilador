@@ -1,0 +1,21 @@
+if
+else
+int
+float
+char
+=
++
+-
+*
+eq
+>
+!=
+&
+|
+{
+}
+EOF
+
+<S> ::= a<A> | e<A> | i<A> | o<A> | u<A> | 1<A> | 2<A> | 4<A>
+<A> ::= a<A> | e<A> | i<A> | o<A> | u<A> | 1<A> | 2<A> | 4<A> | #
+
