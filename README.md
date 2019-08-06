@@ -1,2 +1,4 @@
-# compilador
-Compilador de uma linguagem hipotética - Trabalho compiladores
+# Compilador
+**Trabalho final da disciplina de Compiladores**
+
+Projeto e implementação das etapas de compilação para uma linguagem de programação hipotética.
